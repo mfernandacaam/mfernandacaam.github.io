@@ -1,0 +1,77 @@
+* {
+font-family: 'Gloock', serif;
+font-family: 'Roboto Mono', monospace;
+font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    font-size: 70px
+
+}
+
+body {
+    background-image: url(fondo\ cv.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.secciones {
+
+        padding: 100px 100px;
+        overflow: hidden;
+        text-align: center;
+      }
+      
+
+      
+#presentacion {
+        font-size: 45px
+}
+
+ 
+.titulos {
+        text-align: center;
+        font-size: 40px;
+}
+
+p {
+        text-align: center;
+        font-size: 30px;
+        
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 25 0;
+    overflow: hidden;
+    width: 100 px;
+    background-color: darkblue;
+    color: white;
+  }
+  
+li {
+    float: right;
+    margin:15px;
+    align-items: center;
+    }
+  
+li a {
+    display: block;
+    text-align: center;
+    padding: 18px 20px;
+    margin: 18 px 20px;
+    text-decoration: none;
+    color: white
+  }
+  
+li a:hover {
+    background-color: lightskyblue;
+    padding: 80 px;
+    color: black
+  }
+  
+
+
