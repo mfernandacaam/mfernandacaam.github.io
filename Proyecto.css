@@ -72,5 +72,6 @@ li a:hover {
     color: black
   }
   
-
-
+@media screen and (max-width: 600px) {
+    ul li {float: none;}
+  }
